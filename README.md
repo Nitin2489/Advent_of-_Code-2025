@@ -33,9 +33,6 @@ Copy code
 
 ---
 
-## Progress
-Completed solutions for Days **1–12**.
-
 ---
 
 ## Notes
